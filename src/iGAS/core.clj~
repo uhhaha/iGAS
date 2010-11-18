@@ -1,0 +1,5 @@
+(ns iGAS.core)
+
+
+(use '(swank swank))
+(start-repl)
